@@ -1,11 +1,8 @@
 # Archfendus Turborepo
 
-A high-performance monorepo for creating lightning-fast sites using modern web technologies. Built with Nuxt.js, Vue 3, and TypeScript, this skeleton allows developers to rapidly deploy premium platforms with beautiful, responsive designs.
+A monorepo for creating sites using Nuxt.js, Vue 3, and TypeScript. This skeleton allows developers to deploy multiple platforms with beautiful, responsive designs using the same code.
 
-## 🚀 Live Demos
-
-- **Gold Site**: [https://archfendus-gold.vercel.app/](https://archfendus-gold.vercel.app/)
-- **Silver Site**: [https://archfendus-silver.vercel.app/](https://archfendus-silver.vercel.app/)
+![Picture 1](./.github-assets/image-comparison.webp)
 
 ## 🏗️ What's Inside?
 
@@ -52,7 +49,7 @@ archfendus-turborepo/
 
 ## 🗺️ App Schema
 
-![Picture 1](./schema.webp)
+![Picture 2](./.github-assets/schema.webp)
 
 ## 🛠️ Tech Stack
 
